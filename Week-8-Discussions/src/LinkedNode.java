@@ -12,5 +12,5 @@ public class LinkedNode {
 	LinkedNode(int x) {
 		this.x = x;
 	}
-	
+
 }
